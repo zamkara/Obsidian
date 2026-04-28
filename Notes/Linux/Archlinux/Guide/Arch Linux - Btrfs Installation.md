@@ -8,6 +8,7 @@ description: "Arch Linux installation with btrfs filesystem dual booting with Wi
 ## Abstract
 So I want to show you how to install 󰣇 Arch Linux with btrfs dual booting with Windows. You can read about Arch here: [Arch Wiki - Arch Linux](https://wiki.archlinux.org/title/Arch_Linux).
 
+
 ## Prerequisite
 
 - A USB drive for Arch ISO (8 GB recommended)
