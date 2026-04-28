@@ -8,11 +8,6 @@ banner:
 ---
 ![[space.jpg]]
 
-<audio controls>
-  <source src="https://vault-dwf.pages.dev/api/raw?path=/%F0%9F%90%B8%20Public/%F0%9F%8E%B8%20Music/BoA/01.%20DUVET.flac" type="audio/flac">
-  Your browser does not support the audio element.
-</audio>
-
 ```palette
 #4e4140
 #d4c0b0
