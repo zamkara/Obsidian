@@ -3,8 +3,9 @@ title: "Arch Linux - Btrfs Installation (Dual Boot)"
 description: "Arch Linux installation with btrfs filesystem dual booting with Windows."
 ---
 
-## Abstract
 ![Archlinux|](https://sources.archlinux.org/other/artwork/archlinux-logo-white-scalable.svg)
+
+## Abstract
 So I want to show you how to install 󰣇 Arch Linux with btrfs dual booting with Windows. You can read about Arch here: [Arch Wiki - Arch Linux](https://wiki.archlinux.org/title/Arch_Linux).
 
 ## Prerequisite
